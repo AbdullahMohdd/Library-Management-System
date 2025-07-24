@@ -1,0 +1,11 @@
+BorrowerID,FirstName,LastName,Email,DateOfBirth,MembershipDate
+1,John,Smith,user1@library.com,1990-01-01,2020-01-01
+2,Mary,Johnson,user2@library.com,1992-02-02,2020-01-01
+3,Alice,Brown,user3@library.com,1993-03-03,2020-01-01
+4,Bob,Williams,user4@library.com,1991-04-04,2020-01-01
+5,Charlie,Jones,user5@library.com,1989-05-05,2020-01-01
+6,Diana,Miller,user6@library.com,1994-06-06,2020-01-01
+7,Ethan,Davis,user7@library.com,1990-07-07,2020-01-01
+8,Fiona,Wilson,user8@library.com,1995-08-08,2020-01-01
+9,George,Taylor,user9@library.com,1988-09-09,2020-01-01
+10,Helen,Anderson,user10@library.com,1996-10-10,2020-01-01
